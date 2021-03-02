@@ -1,10 +1,10 @@
 
 
-# **blogAC**
+# blogAC
 
 ------
 
-### **简介**
+### 简介
 
 blogAccessCount是一个Python3编写的博客页面刷访问量的工具，目前只测试了以下博客系统且均成功：
 
@@ -12,7 +12,7 @@ blogAccessCount是一个Python3编写的博客页面刷访问量的工具，目�
   hexo
   wordpress
 
-### Usage：**
+### Usage：
 
 ```
 git clone https://github.com/Cr4y0nXX/blogAC.git
@@ -30,7 +30,7 @@ usage: blogAC.py [-h] -c COUNT [-m {get,post}] [-t TIMEOUT] [-d DATA]
 Python blogAC.py -c=5
 ```
 
--c=15代表本次要刷的次数是5次：
+-c=5代表本次要刷的次数是5次：
 
 ```
 λ Python .\blogAC.py -c=5                      
@@ -76,7 +76,7 @@ attemptCount：5   successCount：5
 
 高级使用请看下文。
 
-### 参数说明**：
+### 参数说明：
 
 ```
 optional arguments:
