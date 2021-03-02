@@ -9,15 +9,15 @@
 blogAccessCount是一个Python3编写的博客页面刷访问量的工具，目前只测试了以下博客系统且均成功：
 
 - typecho
-  hexo
-  wordpress
-
-### Usage：
+- hexo
+- wordpress
 
 ```
 git clone https://github.com/Cr4y0nXX/blogAC.git
 cd blogAC
 ```
+
+### Usage：
 
 ```
 usage: blogAC.py [-h] -c COUNT [-m {get,post}] [-t TIMEOUT] [-d DATA]
